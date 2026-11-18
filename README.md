@@ -1,8 +1,8 @@
 # SCI3116 MCQ Practice
 
-A self-contained revision quiz with 280 English multiple-choice questions, Chinese explanations, English key points and lecture page references. It covers Lectures 1, 2, 3, 4, 6, 7 and 8, with 40 questions and 10 core questions per lecture.
+A self-contained revision quiz with 350 English multiple-choice questions, Chinese explanations, English key points and lecture page references. It covers Lectures 1, 2, 3, 4, 6, 7 and 8. Each lecture has 40 original questions, including 10 core questions, plus 10 challenge questions.
 
-Features include lecture selection, core practice, the full question bank, incorrect-answer practice, and a balanced 35-question mixed round. The mixed round does not represent actual examination proportions.
+Select a lecture and click **開始高難度** for its 10 challenge questions. Select **全部課次** to practise all 70 challenge questions. Core practice, the original bank, incorrect-answer practice and the balanced 35-question mixed round are also available.
 
 These are self-written revision questions based on lecture materials and examination tips. They are not official examination questions or an official course website, and they do not guarantee examination coverage.
 
@@ -12,9 +12,9 @@ The page is self-contained. It does not require ChatGPT, an OpenAI API key, exte
 
 ---
 
-這個自擬溫習網站共有 280 題英文選擇題，附中文解析、英文重點及講義頁碼。涵蓋 Lecture 1、2、3、4、6、7、8，每課 40 題，其中 10 題為核心練習。
+這個自擬溫習網站共有 350 題英文選擇題，附中文解析、英文重點及講義頁碼。涵蓋 Lecture 1、2、3、4、6、7、8，每課有原有 40 題（包括 10 題核心練習）同高難度新題 10 題。
 
-功能包括按課練習、核心題、完整題庫、錯題重做及 35 題均衡混合練習；混合練習的課次比例並不代表正式考試比例。
+選擇課次再撳 **開始高難度**，就可以做該課 10 道新題。選擇 **全部課次** 可做齊 70 道新題。網站亦提供核心題、原有題庫、錯題重做及 35 題均衡混合練習。
 
 題目根據講義及老師提示編寫，並非老師原題、官方題庫或官方課程網站，不能保證實際考試範圍。
 
